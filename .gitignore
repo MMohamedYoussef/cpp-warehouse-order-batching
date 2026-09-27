@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.out
+build/
+__pycache__/
+.env*
+example-out.csv
+*.tmp-*/
